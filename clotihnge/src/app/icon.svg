@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Background -->
+  <rect width="64" height="64" rx="8" fill="#0D0D0D"/>
+  <!-- Crimson accent top-left corner -->
+  <rect x="0" y="0" width="8" height="2" rx="1" fill="#C41230"/>
+  <rect x="0" y="0" width="2" height="8" rx="1" fill="#C41230"/>
+  <!-- Crimson accent bottom-right corner -->
+  <rect x="56" y="62" width="8" height="2" rx="1" fill="#C41230"/>
+  <rect x="62" y="56" width="2" height="8" rx="1" fill="#C41230"/>
+  <!-- K letterform -->
+  <path d="M20 14 L20 50" stroke="white" stroke-width="4" stroke-linecap="round"/>
+  <path d="M20 32 L42 14" stroke="#C41230" stroke-width="4" stroke-linecap="round"/>
+  <path d="M20 32 L44 50" stroke="white" stroke-width="4" stroke-linecap="round"/>
+  <!-- Glow dot -->
+  <circle cx="44" cy="14" r="2.5" fill="#E8153A" opacity="0.9"/>
+</svg>
